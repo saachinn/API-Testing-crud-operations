@@ -1,2 +1,7 @@
 # API-Testing-crud-operations
-A structured approach to quality assurance, featuring extensive test cases designed to validate all aspects of the application's functionality. Scenarios cover a wide range of user interactions and system behaviors, ensuring robust test coverage
+Role: Manual API Tester
+Executed manual API testing for RESTful services using Postman.
+Validated CRUD operations, HTTP methods, status codes, and JSON responses.
+Performed positive and negative test scenarios including single resource not found.
+Prepared API test cases and test reports using Excel.
+
